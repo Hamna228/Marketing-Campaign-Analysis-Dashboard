@@ -5,7 +5,7 @@ An interactive Power BI dashboard designed to analyze customer response patterns
 
 ---
 
-## 📝 Short Description / Purpose
+## 📝 Purpose
 
 The **Marketing Campaign Analysis Dashboard** provides insights into total spending, customer engagement, income segments, and response rates across demographic filters. It's designed to help marketing teams assess campaign performance and refine outreach strategies.
 
