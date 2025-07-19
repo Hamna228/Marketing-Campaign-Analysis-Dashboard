@@ -81,7 +81,7 @@ To provide an analytical view of:
 
 ---
 
-### • Business Impact & Insights
+## 📈 Business Impact & Insights
 
 * 🎯 **Targeted Marketing**: Identify which education levels or recency bands respond better
 * 🧩 **Customer Segmentation**: Segment customers by behavioral and demographic traits
@@ -90,6 +90,9 @@ To provide an analytical view of:
 
 ---
 
-## 📸 Screenshots / Demo
+## 📸 Dashboard Preview
 
+![Marketing Campaign Analysis Dashboard](https://github.com/Hamna228/Marketing-Campaign-Analysis-Dashboard/blob/main/Marketing%20Campaign%20Analysis%20Dshboard.PNG)
+
+---
 
